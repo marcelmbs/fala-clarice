@@ -51,7 +51,7 @@ export default function App() {
 
         <FontAwesome.Button
         name="volume-up"
-        backgroundColor={!falando ? "cccccc" : "#0275d8"}
+        backgroundColor={!falando ? "#cccccc" : "#0275d8"}
         onPress={falar}
         style={styles.Botao}>Ouvir a frase
         </FontAwesome.Button>

@@ -88,4 +88,4 @@ export default function App() {
       width: 150,
       height: 50
       }
-    }
+    })
